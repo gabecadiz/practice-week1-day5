@@ -13,5 +13,5 @@ module.exports = {
   },
   listOutput: function() {
     console.log(listSorter());
-  }
+   }
 };
